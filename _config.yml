@@ -25,10 +25,11 @@ email: mlss@mlinpl.org
 event-date: "2025-06-26T00:00:00"
 tagline: Machine Learning Summer School on Drug and Materials Discovery
 description: >-
-  MLSS^S 2025 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning
-  and their applications in other disciplines of Science, primarily intended for research-oriented graduate students. 
+  MLSS^S 2025 is a summer school providing a didactic introduction to a range of modern topics in  
+  Machine Learning and their applications for Drug and Materials Discovery</span>, 
+  primarily intended for research-oriented graduate students. 
   The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects. 
-  Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland.
+  Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland. 
 twitter-username: "@MLinPL"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mlss2025.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
