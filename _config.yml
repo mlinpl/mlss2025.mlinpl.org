@@ -23,7 +23,7 @@
 title: MLSS^D 2025
 email: mlss@mlinpl.org
 event-date: "2025-06-26T00:00:00"
-tagline: Machine Learning Summer School on applications in Science
+tagline: Machine Learning Summer School on Drug and Materials Discovery
 description: >-
   MLSS^S 2025 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning
   and their applications in other disciplines of Science, primarily intended for research-oriented graduate students. 
@@ -41,8 +41,8 @@ author:
 inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="superscript">D</span></span> <span class="sub-name">2025</span></span>'
 header:
   heading: '<span class="logo"><span class="main-name">MLSS<span class="superscript">D</span></span> <span class="sub-name">2025</span></span>'
-  subheading: Machine Learning Summer School</br>on <span class="emph">D</span>rug and Materials <span class="emph">D</span>iscovery.
-  date-location: 1 July - 6 July / Kraków, Poland
+  subheading: Machine Learning Summer School</br>on <span class="emph">D</span>rug and Materials <span class="emph">D</span>iscovery
+  date-location: 1 - 6 July / Kraków, Poland
   # Countdown settings
   countdown-date: "2025-07-01T09:00:00Z"
   #countdown-date: "2023-04-11T21:59:59Z"
