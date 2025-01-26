@@ -1,17 +1,23 @@
-- date: Early March
-  description: Registration opens (the exact date will be published soon)
+- date: 3 February
+  description: Early Bird application opens
 
-- date: Early April
-  description: Registration closes (the exact date will be published soon)
+- date: 8 March
+  description: Early Bird application closes
 
-- date: Late April
-  description: Acceptance notifications (the exact date will be published soon)
+- date: 9 March
+  description: Regular application opens
 
-- date: Early May
-  description: Deadline for paying  the registration fee
+- date: 22 March
+  description: Early Bird acceptance notifications
 
-- date: Mid May
-  description: Final confirmation of participation
+- date: 19 April
+  description: Regular application closes
+
+- date: 30 April
+  description: Regular notification
+
+- date: 30 April
+  description: Deadline for paying the registration fee
 
 - date: 1 - 6 July
   description: <span class="logo"><span class="main-name">MLSS<span class="superscript">D</span></span> <span class="sub-name">2025</span></span>
