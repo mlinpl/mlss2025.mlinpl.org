@@ -36,7 +36,7 @@ permalink: /registration
 * Early bird, non-academia: **700 EUR**
 * Regular, non-academia: **800 EUR**
 
-The fee includes participation in the summer school, all the program events, coffee and lunch breaks every day, as well as a welcome and goodbye party on Monday and Friday afternoons. Other than that, it does not include any substantial food provision (i.e., breakfast or dinner).
+The fee includes participation in the summer school, all the program events, coffee and lunch breaks every day, as well as a party during the school. Other than that, it does not include any substantial food provision (i.e., breakfast or dinner).
 
 **Estimated additional costs (on the higher end of the spectrum):**
 - 1 EUR ~= 4.2 PLN
