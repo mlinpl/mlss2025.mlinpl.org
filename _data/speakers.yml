@@ -4,6 +4,12 @@
   bio: >-
     Regina is a School of Engineering Distinguished Professor of AI & Health in the Department of Computer Science and the AI Faculty Lead at MIT Jameel Clinic. She develops machine learning methods for drug discovery and clinical AI. In the past, she worked on natural language processing. Her research has been recognized with the MacArthur Fellowship, an NSF Career Award, and the AAAI Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity. Regina is a member of the National Academy of Engineering, National Academy of Medicine, and the American Academy of Arts and Sciences.
 
+- name: Christina Leslie
+  title: Memorial Sloan Kettering Cancer Center
+  image: images/optimized/speakers-600x600/ChristinaLeslie.webp
+  bio: >-
+    Christina did her undergraduate degree in Pure and Applied Mathematics at the University of Waterloo in Canada. She was awarded an NSERC 1967 Science and Engineering Fellowship for graduate study and did a PhD in Mathematics at the University of California, Berkeley, where her thesis work dealt with differential geometry and representation theory.  She won an NSERC Postdoctoral Fellowship and did her postdoctoral training in the Mathematics Department at Columbia University in 1999-2000. She then joined the faculty of the Computer Science Department and later the Center for Computational Learning Systems at Columbia University, where she began to work in computational biology and machine learning and became the principal investigator leading the Computational Biology Group. In 2007, she moved her lab to Memorial Sloan Kettering Cancer Center, where she is currently a Member of the Computational and Systems Biology Program. Christina is well known for developing machine learning approaches for the analysis and interpretation of high-throughput biological data – in particular, bulk and single-cell transcriptomic, epigenomic, and 3D genomic sequencing data sets – with the goal of decoding gene regulation. Biological application domains include basic and cancer immunology, cancer epigenetics, and stem cell biology and cellular differentiation. She is PI, together with Alexander Rudensky, of the NCI U54 Center for Tumor-Immune System for Systems Biology at MSKCC. She is also co-leads projects in the NHGRI Impact of Genomic Variation on Function (IGVF) consortium and the NIH Common Fund 4D Nucleome (4DN) consortium.
+
 - name: Marwin Segler 
   title: Microsoft Research AI for Science
   image: images/optimized/speakers-600x600/MarwinSegler.webp
@@ -13,12 +19,14 @@
 - name: Emmanuel Bengio
   title: Recursion / MILA
   image: images/optimized/speakers-600x600/EmmanuelBengio.webp
+  # bio: >-
+  #   Emmanuel is a Senior ML Scientist at Valence Labs @ Recursion, working on GFlowNet and drug-discovery from Mila, Montreal.
+
+  #   Emmanuel got my PhD and CS Master's at McGill, as a part of Mila, under the supervision of Joelle Pineau and Doina Precup. My Master's thesis was on conditional computation, and PhD thesis on generalization and optimization in deep RL. He have a Computer Science B.Sc. from the DIRO at Université de Montréal.
+
+  #   Emmanuel is mainly interested in Machine Learning, especially Deep Learning and Reinforcement Learning and mixing both, he is  also into compiler design and implementation, and generally programming as a topic. Lately, He has been working at the intersection of ML and drug design using our all new GFlowNet framework. 
   bio: >-
-    Emmanuel is a Senior ML Scientist at Valence Labs @ Recursion, working on GFlowNet and drug-discovery from Mila, Montreal.
-
-    Emmanuel got my PhD and CS Master's at McGill, as a part of Mila, under the supervision of Joelle Pineau and Doina Precup. My Master's thesis was on conditional computation, and PhD thesis on generalization and optimization in deep RL. He have a Computer Science B.Sc. from the DIRO at Université de Montréal.
-
-    Emmanuel is mainly interested in Machine Learning, especially Deep Learning and Reinforcement Learning and mixing both, he is  also into compiler design and implementation, and generally programming as a topic. Lately, He has been working at the intersection of ML and drug design using our all new GFlowNet framework. 
+    Emmanuel is an ML Scientist at Recursion's Valence Labs, working on the intersection of GFlowNets and drug discovery problems. He did his PhD under Joelle Pineau and Doina Precup at McGill/Mila, focusing on understanding generalization in deep RL.
 
 - name: Jakub Tomczak
   title: Eindhoven / CZI
@@ -61,3 +69,22 @@
   image: images/optimized/speakers-600x600/AndreasBender.webp
   bio: >-
     Andreas is a Professor for Machine Learning in Medicine at the Department of Medicine at Khalifa University, Abu Dhabi. Before he has been Professor for Molecular Informatics at Cambridge University and a Director for Digital Life Sciences at Nuvisan/Berlin, as well as Associate Director for Data Science and AI in the Clinical Pharmacology & Safety Sciences group at AstraZeneca/Cambridge, UK. On the entrepreneurial side, Andreas was involved in setting up Healx Ltd. and PharmEnable Ltd., both based in Cambridge/UK, as well as Pangea Bio, located in London/UK as well as Berlin/Germany. He received his PhD from the University of Cambridge and worked in the Lead Discovery Informatics group at Novartis in Cambridge/MA as well as at Leiden University in the Netherlands before his current post.
+
+- name: Bożena Augustyn
+  title: KCRI
+  image: images/optimized/speakers-600x600/BozenaAugustyn.webp
+  bio: >-
+    Bożena is a Clinical Project Manager at KCRI specializing in clinical research and biostatistics with experience in managing international clinical trials for medical devices in cardiology. Before joining KCRI, Bożena held key roles in clinical operations, oncology research, and data management at Ardigen. With a PhD in Biological Sciences from Jagiellonian University and research experience at the University of Helsinki and Tampere University of Technology, she has worked across academia and industry, focusing on the intersection of biomedical science and data-driven research.
+
+- name: Bartosz Grzybowski
+  title: UNIST
+  image: images/optimized/speakers-600x600/BartoszGrzybowski.webp
+  bio: >-
+    Bartosz is a Distinguished Professor of Chemistry at the Ulsan National Institute of Science and Technology (UNIST, South Korea) and a Director of the IBS Center for Algorithmic and Robotized Synthesis (CARS) located therein. He is also affiliated with the Institute of Organic Chemistry, Polish Academy of Sciences. Although he has spent a large fraction of his research career on esoteric problems of self-assembly and non-equilibrium systems, he considers his most impactful discoveries to be in the area of computer-driven synthesis (e.g., the Chematica/Synthia and Allchemy programs). The chemical algorithms and robotics systems Grzybowski develops find applications in both academic and industrial settings, and have ramifications for the issues of global chemical production, circular economy, and national security. Grzybowski is an author of 300+ articles (H=92), and over the years received numerous accolades of which the 2016 Feynman Prize and the 2022 Foundation for Polish Science Prize are closest to his heart.
+
+- name: Miguel Angel Bautista
+  title: Apple
+  image: images/optimized/speakers-600x600/MiguelAngelBautista.webp
+  bio: >- 
+    Miguel is a Research Scientist in the Machine Learning Research (MLR) group at Apple, where he works on generative modeling, geometric deep learning, and unsupervised learning. His current focus is on developing domain-agnostic diffusion and flow matching models across multiple data domains, including vision, 3D and biology data. Prior to joining Apple, Miguel was a Postdoctoral Fellow at the University of Heidelberg, where he contributed to some of the earliest approaches for self-supervised learning in vision. He earned his PhD from the University of Barcelona, specializing in Error-Correcting Representations for Multi-class problems, spending a significant portion of his PhD at Carnegie Mellon University. His research has been recognized with national awards in Spain for both his Master's and PhD theses. Miguel's long-term goal is to develop probabilistic models that leverage large-scale data to understand and simulate the physical world, pushing the boundaries of generative modeling beyond traditional domains to achieve a unified modeling paradigm.
+
