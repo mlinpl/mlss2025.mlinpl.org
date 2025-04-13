@@ -17,7 +17,7 @@ As mentioned above, according to the GDPR, we inform you that:
 
 1. **SECTION I – THE CONTROLLER**
    1. The data controller of your data is **_ML in PL Association_**_, with its registered seat in Warsaw, Plac Bankowy 2 Street, KRS number: 0000754960, REGON: 381658081, NIP: 1182183164._
-   2. In matters related to the processing of personal data, please contact The Controller via e-mail address <mlss\@mlinpl.org>.
+   2. In matters related to the processing of personal data, please contact The Controller via e-mail address <mlss@mlinpl.org>.
 2. **SECTION II – DATA PROCESSING. PURPOSES AND LEGAL BASIS FOR DATA PROCESSING**
    1. In connection with purposes for data processing, the Controller collects and processes personal data, making every effort to ensure that the processed personal data is adequately secured.
    2. The processing of personal data is based on the applicable law, in particular, the GDPR.
@@ -61,7 +61,7 @@ As mentioned above, according to the GDPR, we inform you that:
       5. object to the personal data processing for reasons related to your particular situation,
       6. data portability to other controllers;
       7. withdraw the consent at any time – if the processing is carried out on that basis, without prejudice to the lawfulness of processing carried out on the basis of the consent before its withdrawal.
-   2. According to your rights mentioned in section 4.1. thereinbefore, you can do so by contacting The Controller at: <mlss/@mlinpl.org>.
+   2. According to your rights mentioned in section 4.1. thereinbefore, you can do so by contacting The Controller at: <mlss@mlinpl.org>.
    3. In addition, the data subject has the right to lodge a complaint with the supervisory authority. In Poland, the supervisory authority has been the President of the Office for Personal Data Protection.
 
 5. **SECTION V – FINAL PROVISIONS**
@@ -79,5 +79,5 @@ As mentioned above, according to the GDPR, we inform you that:
 
 ## § 3. FINAL PROVISIONS
 
-1. In order to exercise the rights described in the preceding articles, the Participant may at any time contact the Controller at <mlss\@mlinpl.org>
+1. In order to exercise the rights described in the preceding articles, the Participant may at any time contact the Controller at <mlss@mlinpl.org>
 2. The Controller reserves the right to introduce changes to this Privacy Policy. Participants shall be informed of all changes to the Privacy Policy not less than 3 days prior to their implementation, on the main page of the Website.
