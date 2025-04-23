@@ -19,22 +19,28 @@ permalink: /registration
 ---
 
 ## Timeline 
-* Early bird (over 10% cheaper) 
-    * registration deadline - **March 8th**
-    * decision notification - **March 22nd**
-* Regular
-    * registration deadline - **April 19th**
-    * decision notification - **April 30th**
+* <s>Early bird (over 10% cheaper)</s>
+    * <s>registration deadline - **March 8th**</s>
+    * <s>decision notification - **March 22nd**</s>
+* <s>Regular</s>
+    * <s>registration deadline - **April 19th**</s>
+    * <s>decision notification - **April 30th**</s>
+* Late Bird (limited slots)
+    * registration open until **May 9th** or until the tickets are available
+    * descion notification on a rolling basis
 * Deadline for paying the registration fee - **May 16th**
 
 
 ## Costs
 
 **Participation fee**
-* Early bird, academia: **350 EUR**
-* Regular, academia: **400 EUR**
-* Early bird, non-academia: **700 EUR**
-* Regular, non-academia: **800 EUR**
+* <s>Early bird, academia: **350 EUR**</s>
+* <s>Regular, academia: **400 EUR**</s>
+* Late bird, academia: **450 EUR**
+* <s>Early bird, non-academia: **700 EUR**</s>
+* <s>Regular, non-academia: **800 EUR**</s>
+* Late bird, non-academia: **900 EUR**
+
 
 The fee includes participation in the summer school, all the program events, coffee and lunch breaks every day, as well as a party during the school. Other than that, it does not include any substantial food provision (i.e., breakfast or dinner).
 
@@ -79,7 +85,7 @@ If this page doesn’t include all the information you need, please send your qu
 
 
 Q: Can I receive an invoice for the registration fee?<br/>
-**A: Yes, when paying the registration fee through the Evenea platform, select "I want to receive an invoice" and provide the required information.**
+**A: Yes, when paying the registration fee through the payment platform, select "I want to receive an invoice" and provide the required information.**
 
 
 Q: Can I get a refund of the registration fee if I'm not able to attend the school?<br/>
@@ -89,6 +95,9 @@ Q: Can I get a refund of the registration fee if I'm not able to attend the scho
 
 Q: Is it safe to be in Kraków right now given the Russian invasion of Ukraine?<br/>
 **A: Yes, as of now, the situation in Poland is completely safe!**
+
+Q: Do you provide financial support?
+**A: Unfortunately, we cannot offer financial aid at this time.**
 
 
 The application process for MLSS^S is based on the one from the [EEML summer school](https://eeml.eu). We kindly thank the organizers of EEML for sharing their expertise with us.
