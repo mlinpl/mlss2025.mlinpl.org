@@ -27,7 +27,7 @@ permalink: /registration
     * <s>decision notification - **April 30th**</s>
 * Late Bird (limited slots)
     * registration open until **May 9th** or until the tickets are available
-    * descion notification on a rolling basis
+    * decision notification on a rolling basis
 * Deadline for paying the registration fee - **May 16th**
 
 
