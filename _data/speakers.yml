@@ -87,3 +87,8 @@
   image: images/speakers/HannesStark.jpg
   bio: >-
     Hannes is a third-year PhD student at MIT in CSAIL co-advised by Tommi Jaakkola and Regina Barzilay. He works on generative models for biomolecules (docking, protein design and search, DNA design, molecular dynamics). We are grateful to Hannes for stepping in to deliver the lecture on behalf of Prof. Regina Barzilay, who is unable to attend.
+- name: Stanisław Jastrzębski
+  title: Molecule.one
+  image: images/optimized/speakers-600x600/StanislawJastrzebski.webp
+  bio: >- 
+    Stanisław is the CTO and Chief Scientist at Molecule.one, a biotechnology startup tackling a key bottleneck in drug discovery: the unpredictability of organic synthesis. The company combines state-of-the-art AI with proprietary high-throughput experimental data to enable efficient synthesis planning. He co-led technical teams that pioneered some of the most accurate models to date for predicting organic chemistry outcomes. His long-term goal is to automate scientific discovery by combining AI with high degrees of automation. He completed his postdoctoral training in deep learning at New York University and holds a PhD from Jagiellonian University, focused on the theoretical foundations of deep learning conducted during collaborations with Yoshua Bengio and Amos Storkey. His research has been published in top machine learning venues, including NeurIPS, ICLR, and ICML. He is an active contributor to the community, serving as an Area Chair at major conferences such as NeurIPS and as an Action Editor for Transactions on Machine Learning Research (TMLR)
