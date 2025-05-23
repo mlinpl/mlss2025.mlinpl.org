@@ -1,9 +1,3 @@
-- name: Regina Barzilay
-  title: MIT
-  image: images/optimized/speakers-600x600/ReginaBarzilay2.webp
-  bio: >-
-    Regina is a School of Engineering Distinguished Professor of AI & Health in the Department of Computer Science and the AI Faculty Lead at MIT Jameel Clinic. She develops machine learning methods for drug discovery and clinical AI. In the past, she worked on natural language processing. Her research has been recognized with the MacArthur Fellowship, an NSF Career Award, and the AAAI Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity. Regina is a member of the National Academy of Engineering, National Academy of Medicine, and the American Academy of Arts and Sciences.
-
 - name: Christina Leslie
   title: Memorial Sloan Kettering Cancer Center
   image: images/optimized/speakers-600x600/ChristinaLeslie.webp
@@ -88,3 +82,8 @@
   bio: >- 
     Miguel is a Research Scientist in the Machine Learning Research (MLR) group at Apple, where he works on generative modeling, geometric deep learning, and unsupervised learning. His current focus is on developing domain-agnostic diffusion and flow matching models across multiple data domains, including vision, 3D and biology data. Prior to joining Apple, Miguel was a Postdoctoral Fellow at the University of Heidelberg, where he contributed to some of the earliest approaches for self-supervised learning in vision. He earned his PhD from the University of Barcelona, specializing in Error-Correcting Representations for Multi-class problems, spending a significant portion of his PhD at Carnegie Mellon University. His research has been recognized with national awards in Spain for both his Master's and PhD theses. Miguel's long-term goal is to develop probabilistic models that leverage large-scale data to understand and simulate the physical world, pushing the boundaries of generative modeling beyond traditional domains to achieve a unified modeling paradigm.
 
+- name: Hannes Stark
+  title: MIT
+  image: images/speakers/HannesStark.jpg
+  bio: >-
+    Hannes is a third-year PhD student at MIT in CSAIL co-advised by Tommi Jaakkola and Regina Barzilay. He works on generative models for biomolecules (docking, protein design and search, DNA design, molecular dynamics). We are grateful to Hannes for stepping in to deliver the lecture on behalf of Prof. Regina Barzilay, who is unable to attend.

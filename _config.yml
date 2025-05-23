@@ -66,6 +66,9 @@ navigation:
 
   - name: "/ Speakers"
     url: "#speakers"
+  
+  - name: "/ Agenda"
+    url: "#agenda"
 
   - name: "/ Timeline"
     url: "#timeline"

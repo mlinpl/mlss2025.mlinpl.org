@@ -1,0 +1,159 @@
+- title: Tuesday
+  subtitle: July 1st
+  events:
+    - title: Registration
+      time: <br><br><br>10:00 - 11:00
+      height: 4
+    - title: Opening remarks
+      time: 11:00 - 11:30
+      height: 1
+    - title: Bartosz Grzybowski
+      subtitle: TBA
+      time: 11:30 - 13:00
+      height: 2
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Bartosz Grzybowski
+      subtitle: TBA
+      time: 14:00 - 15:30
+      height: 2
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 15:30 - 16:00
+      height: 1
+    - title: Kaja Milanowska-Zabel
+      subtitle: "Decoding the Future: AI's Role in<br>Revolutionizing Drug Discovery"
+      time: 16:00 - 17:30
+      height: 2
+    - title: <i class="fa-solid fa-handshake"></i> Welcome party
+      time: 18:00+
+      height: 1
+
+- title: Wednesday
+  subtitle: July 2nd
+  events:
+    - title: Registration
+      time: 9:00 - 9:30
+      height: 1
+    - title: Andreas Bender
+      subtitle: TBA
+      time: 9:30 - 11:00
+      height: 2
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Marwin Segler
+      subtitle: TBA
+      time: 11:30 - 13:00
+      height: 2
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Miguel Angel Bautista
+      subtitle: "Generative Modeling:<br>from Pixels to Proteins"
+      time: 14:00 - 17:00
+      height: 4
+    - title: Poster session
+      subtitle: (at the <a href='https://maps.app.goo.gl/3c35WKJcDVcLA8du5'>Department of Chemistry</a>)
+      time: 17:00+
+      height: 1
+
+- title: Thursday
+  subtitle: July 3rd
+  events:
+    - title: Registration
+      time: 9:00 - 9:30
+      height: 1
+    - title: Jakub Tomczak
+      time: 9:30 - 11:00
+      subtitle: Generative AI in Life<br>and Molecular Sciences
+      height: 2
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Jakub Tomczak
+      subtitle: Generative AI in Life<br>and Molecular Sciences
+      time: 11:30 - 13:00
+      height: 2
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Hannes Stark
+      subtitle: TBA
+      time: 14:00 - 15:30
+      height: 2
+    - title: ""
+
+
+- title: Friday
+  subtitle: July 4th
+  events:
+    - title: Registration
+      time: 9:00 - 9:30
+      height: 1
+    - title: Tomasz Kościółek
+      subtitle: TBA
+      time: 9:30 - 11:00
+      height: 2
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Lixin Sun
+      subtitle: "Nuts and Bolts of<br>Machine Learning Force Fields"
+      time: 11:30 - 13:00
+      height: 2
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: ""
+
+- title: Saturday
+  subtitle: July 5th
+  events:
+    - title: Registration
+      time: 9:00 - 9:30
+      height: 1
+    - title: Emmanuel Bengio
+      time: 9:30 - 11:00
+      subtitle: Using GFlowNets to solve<br>drug discovery problems
+      height: 2
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Bożena Augustyn
+      subtitle: TBA
+      time: 11:30 - 13:00
+      height: 2
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Stanisław Jastrzębski
+      subtitle: TBA
+      time: 14:00 - 15:30
+      height: 2
+    - title: ""
+
+- title: Sunday
+  subtitle: July 6th
+  events:
+    - title: Registration
+      time: 9:00-9:30
+      height: 1
+    - title: Christina Leslie
+      time: 9:30 - 11:00
+      subtitle: TBA
+      height: 2
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Patrick Schwab
+      subtitle: TBA
+      time: 11:30 - 13:00
+      height: 2
+    - title: <i class="fa-solid fa-hand-holding-heart"></i> Closing remarks
+      time: 13:00 - 13:15
+      height: 1
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:15 - 14:00
+      height: 1
+    - title: ""
