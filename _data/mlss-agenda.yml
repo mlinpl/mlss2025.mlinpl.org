@@ -3,12 +3,12 @@
   events:
     - title: Registration
       time: <br><br><br>10:00 - 11:00
-      height: 4
+      height: 5
     - title: Opening remarks
       time: 11:00 - 11:30
       height: 1
-    - title: Bartosz Grzybowski
-      subtitle: TBA
+    - title: Kaja Milanowska-Zabel
+      subtitle: "Decoding the Future: AI's Role in<br>Revolutionizing Drug Discovery"
       time: 11:30 - 13:00
       height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
@@ -21,12 +21,13 @@
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:30 - 16:00
       height: 1
-    - title: Kaja Milanowska-Zabel
-      subtitle: "Decoding the Future: AI's Role in<br>Revolutionizing Drug Discovery"
+    - title: Bartosz Grzybowski
+      subtitle: TBA
       time: 16:00 - 17:30
       height: 2
     - title: <i class="fa-solid fa-handshake"></i> Welcome party
       time: 18:00+
+      subtitle: "Venue patio"
       height: 1
 
 - title: Wednesday
@@ -38,7 +39,7 @@
     - title: Andreas Bender
       subtitle: TBA
       time: 9:30 - 11:00
-      height: 2
+      height: 3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 11:00 - 11:30
       height: 1
@@ -50,11 +51,11 @@
       time: 13:00 - 14:00
       height: 1
     - title: Miguel Angel Bautista
-      subtitle: "Generative Modeling:<br>from Pixels to Proteins"
+      subtitle: "Generative Modeling:<br>from Pixels to Proteins<br><i>(remote)</i>"
       time: 14:00 - 17:00
       height: 5
     - title: Poster session
-      subtitle: (at the <a href='https://maps.app.goo.gl/3c35WKJcDVcLA8du5'>Department of Chemistry</a>)
+      subtitle: <a href='https://maps.app.goo.gl/3c35WKJcDVcLA8du5'>Department of Chemistry</a>
       time: 17:00+
       height: 1
 
@@ -67,7 +68,7 @@
     - title: Jakub Tomczak
       time: 9:30 - 11:00
       subtitle: Generative AI in Life<br>and Molecular Sciences
-      height: 2
+      height: 3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 11:00 - 11:30
       height: 1
@@ -79,9 +80,9 @@
       time: 13:00 - 14:00
       height: 1
     - title: Hannes Stark
-      subtitle: TBA
+      subtitle: "Understanding biomolecular<br>diffusion through examples:<br>1. prediction (DiffDock and Boltz),<br>2. dynamics (MDGen),<br>3. design (new! BoltzGen)"
       time: 14:00 - 15:30
-      height: 2
+      height: 4
     - title: ""
 
 
@@ -94,7 +95,7 @@
     - title: Tomasz Kościółek
       subtitle: TBA
       time: 9:30 - 11:00
-      height: 2
+      height: 3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 11:00 - 11:30
       height: 1
@@ -113,10 +114,10 @@
     - title: Registration
       time: 9:00 - 9:30
       height: 1
-    - title: Emmanuel Bengio
-      time: 9:30 - 11:00
-      subtitle: Using GFlowNets to solve<br>drug discovery problems
-      height: 2
+    - title: Stanisław Jastrzębski
+      subtitle: How the quiet high-throughput<br>revolution in synthetic chemistry<br>will change drug discovery forever
+      time: 9:30-11:00
+      height: 3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 11:00 - 11:30
       height: 1
@@ -127,11 +128,14 @@
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 13:00 - 14:00
       height: 1
-    - title: Stanisław Jastrzębski
-      subtitle: TBA
-      time: 14:00 - 15:30
-      height: 2
-    - title: ""
+    - title: Emmanuel Bengio
+      time: 14:00-15:30
+      subtitle: Using GFlowNets to solve<br>drug discovery problems<br><i>(remote)</i>
+      height: 7
+    - title: <i class="fa-solid fa-wine-glass"></i> Goodbye party
+      time: TBA (evening)
+      subtitle: <a href="https://maps.app.goo.gl/gdK3MqficiqLffRx6">Bracka 4 Club</a>
+      height: 2.5
 
 - title: Sunday
   subtitle: July 6th
@@ -142,7 +146,7 @@
     - title: Christina Leslie
       time: 9:30 - 11:00
       subtitle: TBA
-      height: 2
+      height: 3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 11:00 - 11:30
       height: 1
@@ -153,7 +157,7 @@
     - title: <i class="fa-solid fa-hand-holding-heart"></i> Closing remarks
       time: 13:00 - 13:15
       height: 1
-    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+    - title: <i class="fa-solid fa-utensils"></i> Lunch
       time: 13:15 - 14:00
       height: 1
     - title: ""
