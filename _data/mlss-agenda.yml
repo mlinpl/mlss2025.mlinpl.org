@@ -1,3 +1,7 @@
+- title: Monday
+  subtitle: June 30th
+  events:
+  - title: No school yet!
 - title: Tuesday
   subtitle: July 1st
   events:
@@ -34,19 +38,22 @@
   subtitle: July 2nd
   events:
     - title: Registration
-      time: 9:00 - 9:30
-      height: 1
-    - title: Andreas Bender
-      subtitle: TBA
-      time: 9:30 - 11:00
-      height: 3
+      time: <br><br><br>10:00 - 11:00
+      height: 5
+    # - title: Registration
+    #   time: 9:00 - 9:30
+    #   height: 1
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 11:00 - 11:30
       height: 1
-    - title: Marwin Segler
-      subtitle: TBA
+    - title: Andreas Bender
+      subtitle: AI in Drug Discovery - From<br>'SOTA' to Real-World Impact
       time: 11:30 - 13:00
       height: 2
+    # - title: Marwin Segler
+    #   subtitle: TBA
+    #   time: 11:30 - 13:00
+    #   height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 13:00 - 14:00
       height: 1
@@ -106,6 +113,10 @@
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 13:00 - 14:00
       height: 1
+    - title: Bożena Augustyn
+      subtitle: TBA
+      time: 14:00 - 15:30
+      height: 2
     - title: ""
 
 - title: Saturday
@@ -121,10 +132,14 @@
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 11:00 - 11:30
       height: 1
-    - title: Bożena Augustyn
+    - title: Marwin Segler
       subtitle: TBA
       time: 11:30 - 13:00
       height: 2
+    # - title: Bożena Augustyn
+    #   subtitle: TBA
+    #   time: 11:30 - 13:00
+    #   height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 13:00 - 14:00
       height: 1
@@ -133,7 +148,7 @@
       subtitle: Using GFlowNets to solve<br>drug discovery problems<br><i>(remote)</i>
       height: 7
     - title: <i class="fa-solid fa-wine-glass"></i> Goodbye party
-      time: TBA (evening)
+      time: 20:00+
       subtitle: <a href="https://maps.app.goo.gl/gdK3MqficiqLffRx6">Bracka 4 Club</a>
       height: 2.5
 
