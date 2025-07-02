@@ -55,15 +55,15 @@
     #   time: 11:30 - 13:00
     #   height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
-      time: 13:00 - 14:00
-      height: 1
+      time: 13:00 - 14:45
+      height: 2
     - title: Miguel Angel Bautista
       subtitle: "Generative Modeling: from Pixels to Proteins<br><i>(remote)</i>"
-      time: 14:00 - 15:30
-      height: 5
+      time: 14:45 - 16:15
+      height: 4
     - title: Poster session
       subtitle: <a href='https://maps.app.goo.gl/3c35WKJcDVcLA8du5'>Department of Chemistry</a>
-      time: 17:00+
+      time: 16:30-18:30
       height: 1
 
 - title: Thursday
