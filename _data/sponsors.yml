@@ -68,6 +68,21 @@
 #       image: "images/optimized/sponsors-600x600/TCL.webp"
 #       url: "https://tcl-research.pl"
 
+- title: '/ Sponsors'
+  imageMaxWidth: 280px
+  imageMaxHeight: 90px
+  margin: 30px 45px
+  sponsors:
+    - name: Apple
+      image: "images/optimized/sponsors-600x600/Apple.svg"
+      url: "https://www.apple.com/"
+    - name: Ardigen
+      image: "images/optimized/sponsors-600x600/Ardigen.webp"
+      url: "https://ardigen.com/"
+    - name: Google DeepMind
+      image: "images/optimized/sponsors-600x600/GoogleDeepMind.webp"
+      url: "https://www.deepmind.com"
+
 - title: "/ Partners"
   imageMaxWidth: 280px
   imageMaxHeight: 120px
